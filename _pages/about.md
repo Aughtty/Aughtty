@@ -11,21 +11,19 @@ redirect_from:
 I am a first-year Master's student at Tianjin University, majoring in Computer Science and Technology.  
 My research primarily focuses on Computer Vision, with interests in image and video restoration, super-resolution, 和 low-level vision enhancement.  
 I aim to design robust visual understanding and restoration models that perform reliably in complex, real-world scenarios.  
-
-
----
-
-## 📚 Research Interests
 - **Computer Vision:** Image and video understanding, visual restoration, enhancement, 和 representation  
 - **Image Restoration:** De-noising, deblurring, dehazing, deraining, 和 low-light image enhancement  
 - **Video Super-Resolution:** Spatiotemporal consistency and degradation modeling  
-- **Deep Learning for Vision:** Integration of physical priors with data-driven learning  
+
+
 
 ---
 
-## 🧩 Current Research
-My current work centers on developing deep learning-based image and video restoration frameworks that generalize effectively to real-world degradations.  
-I focus on bridging the gap between synthetic datasets and practical data through degradation modeling, domain adaptation, 和 perceptual optimization.  
+## 📖Educations
+
+- 2021.09 - 2025.06, College of Intelligence and Computing, Wuhan University of Technology
+- 2025.09 - Present, College of Intelligence and Computing, Tianjin Univeristy
+
 
 ---
 
